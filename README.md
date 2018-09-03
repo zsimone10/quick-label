@@ -6,7 +6,7 @@ This is the server for Quick Label.
 * Conda env details:
   * To create: conda create quicklabel python=3.5
   * To start: source activate quicklabel 
-        * conda install opencv, numpy, flask, 
+   * conda install opencv, numpy, flask, 
 * edit labels.txt to your needs 
 ### To Start
 * export FLASK_APP=server.py
